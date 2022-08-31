@@ -8,4 +8,4 @@
 > 将jar拖入recaf等反编译软件，即可抄代码
 
 ## 字符串混淆怎么解开？
-> ![img](https://raw.githubusercontent.com/PCZ-G0D/DeobfTarico/main/StringDeobf.png)
+> ![参考这个方法解密即可](https://raw.githubusercontent.com/PCZ-G0D/DeobfTarico/main/StringDeobf.png)
