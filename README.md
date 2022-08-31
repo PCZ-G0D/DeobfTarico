@@ -9,3 +9,4 @@
 
 ## 字符串混淆怎么解开？
 > ![参考这个方法解密即可](https://raw.githubusercontent.com/PCZ-G0D/DeobfTarico/main/StringDeobf.png)
+> 参考此方法，将每个class中解密方法的method name拷贝到object即可
